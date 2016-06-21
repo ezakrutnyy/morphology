@@ -24,7 +24,7 @@ public class Start {
 public static void main(String[] args) {
 
 /**
-* Инициализация таймера
+* Инициализация таймера 2
 * programTimer - общее время программы
 * eventTimer - время каждой операции
 * */
